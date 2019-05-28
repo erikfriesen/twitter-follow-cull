@@ -1,0 +1,5 @@
+arrow
+python-twitter
+jupyter
+ipykernel
+matplotlib
